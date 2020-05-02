@@ -1,0 +1,2083 @@
+@media only screen and (min-device-width: 321px) and (max-device-width: 375px) {
+  /*  */
+  .text-headertop {
+    font-size: 15px;
+  }
+
+  .text-date {
+    margin-left: 2rem;
+    font-size: 15px;
+  }
+
+  .gallery-box .image {
+    flex: 40% !important;
+  }
+
+  p.text-footer1 {
+    font-size: 20px;
+  }
+
+  span.text-address {
+    font-size: 15px;
+    margin-left: 5px;
+  }
+
+  span.text-address2 {
+    font-size: 15px;
+  }
+
+  p.text-contact {
+    font-size: 15px;
+  }
+
+  p.text-contact2 {
+    font-size: 15px;
+  }
+
+  .lightbox img {
+    height: 150px !important;
+    padding-top: 14.5px;
+  }
+  .img-welcome {
+    width: 250px;
+    height: auto;
+    padding-bottom: 2.5em;
+  }
+  .text-infohome {
+    font-size: 13px;
+  }
+  .nameweb-home {
+    margin-right: 5em;
+  }
+  .menu-top {
+    padding-right: 0.4em !important;
+  }
+  .btn-addremove {
+    margin-left: 10em !important;
+    float: none !important;
+  }
+  #searchbook {
+    width: 340px !important;
+  }
+  .book_typesname {
+    margin: 0 !important;
+    text-align: center;
+    margin-bottom: 0.4em !important;
+  }
+  .img-book {
+    width: 120px !important;
+  }
+  .des_package {
+    margin-top: 1.8em;
+  }
+  .des_price {
+    margin-top: -0.2em !important;
+  }
+  .img-cover {
+    width: 220px !important;
+    height: auto !important;
+  }
+  .img-covergallerys {
+    width: 310px !important;
+  }
+  #member_editform {
+    padding: 1em 1em !important;
+  }
+  .btnmemberedit {
+    margin-right: 0.5em !important;
+  }
+  .logo-header2 {
+    width: 80px !important;
+    margin-right: 9em;
+  }
+  .text-date {
+    text-align: center !important;
+    margin-left: 1em !important;
+    margin-right: 0em !important;
+  }
+  .text-headertop {
+    margin-left: 0em !important;
+  }
+  .facebookicon {
+    margin-right: 0 !important;
+  }
+  .topnumber {
+    margin-top: 0.7em !important;
+  }
+  .topnumber2 {
+    margin-top: 1em !important;
+    margin-left: 1em !important;
+  }
+  .btnknowdo {
+    float: left !important;
+    margin-top: 0 !important;
+    margin-bottom: 2em;
+    margin-left: 2.5em;
+  }
+  .login-userform {
+    margin-top: 0.5em;
+  }
+  .namedev {
+    font-size: 13px;
+  }
+  .iframeyt {
+    width: 100% !important;
+    height: 100% !important;
+  }
+  .text-bgheader {
+    margin-left: 0 !important;
+  }
+  .name-bgheader {
+    font-size: 25px !important;
+    margin-top: 1.5em !important;
+  }
+  .text-commenthead {
+    margin-top: 2em;
+  }
+  .menu-book {
+    margin-top: 0.7em !important;
+  }
+  .showbook .name-showcatalog {
+    font-size: 14px;
+    margin-left: 1.5em;
+  }
+  .showbook img {
+    margin-bottom: 0.1em;
+  }
+  #footer {
+    font-size: 13px;
+  }
+  .menugalleryshow {
+    margin-top: 2em !important;
+    text-align: center;
+  }
+  .subgalleryname {
+    font-size: 15px !important;
+  }
+  .subgallerydate {
+    margin-right: 10em !important;
+    margin-top: -6px !important;
+    font-size: 13px;
+  }
+  .hrline {
+    margin-top: 0.5em !important;
+  }
+  /*  */
+  .contents h1 {
+    font-size: 3em !important;
+  }
+  .one-sec {
+    margin-bottom: 0 !important;
+  }
+  .four-sec {
+    margin-top: 2em !important;
+  }
+  .one-sec,
+  .two-sec,
+  .three-sec,
+  .four-sec {
+    margin-left: 0 !important;
+  }
+  .img-family2 {
+    display: block !important;
+  }
+  #knowledge {
+    margin-top: 46em !important;
+  }
+  .items-imgvegetables::before {
+    min-height: 215px !important;
+  }
+  .veget-icon::after {
+    left: 147px !important;
+    top: 3.5em !important;
+  }
+  .veget-text {
+    left: 120px !important;
+    top: 7.2em !important;
+  }
+  .items-imgfruits::before {
+    top: 14em !important;
+    min-height: 215px !important;
+  }
+  .fruits-text {
+    left: 148px !important;
+    top: 365px !important;
+  }
+  .fruits-icon::after {
+    left: 142px !important;
+    top: 270px !important;
+  }
+  .items-imgactivities::before {
+    top: 28.3em !important;
+    min-height: 215px !important;
+  }
+  .activities-text {
+    left: 132px !important;
+    top: 580px !important;
+  }
+  .activities-icon::after {
+    left: 148px !important;
+    top: 490px !important;
+  }
+  .pic {
+    margin-top: -43em !important;
+    min-height: 220px !important;
+    max-height: 190px !important;
+    margin-top: -43em !important;
+    width: 368px !important;
+  }
+  .bg-date::after {
+    width: 85px !important;
+    right: 15px !important;
+    height: 75px !important;
+    margin-top: -28em !important;
+  }
+  .date {
+    font-size: 20px !important;
+    top: -414px !important;
+    right: 47px !important;
+  }
+  .month {
+    font-size: 14px !important;
+    top: -382px !important;
+    right: 29px !important;
+  }
+
+  .items-boxknow {
+    min-width: 317px !important;
+    max-width: 317px !important;
+    margin-top: 16em !important;
+    min-height: 200px !important;
+    max-height: 190px !important;
+    margin-top: 18em !important;
+  }
+  .box-package {
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+  }
+  .name-th {
+    font-size: 23px !important ;
+  }
+  .schedule-table {
+    font-size: 13px !important;
+  }
+  .name-address {
+    font-size: 27px !important;
+  }
+  .name-address,
+  .address {
+    text-align: center !important;
+  }
+  .phone,
+  .facebook {
+    border-right: 0 solid #fff !important;
+  }
+  .lineright {
+    border: 0 solid #fff !important;
+  }
+  .modal-body .nav-tabs > li {
+    width: 100% !important;
+    -webkit-width: 100% !important;
+    -o-width: 100% !important;
+    -ms-width: 100% !important;
+    -moz-width: 100% !important;
+  }
+}
+
+@media only screen and (min-device-width: 376px) and (max-device-width: 425px) {
+  /*  */
+  .text-headertop {
+    margin-left: 1rem;
+  }
+
+  .text-date {
+    margin-left: 3.4rem;
+  }
+
+  p.text-footer1 {
+    font-size: 20px;
+  }
+
+  span.text-address {
+    font-size: 15px;
+    margin-left: 5px;
+  }
+
+  span.text-address2 {
+    font-size: 15px;
+  }
+
+  p.text-contact {
+    font-size: 15px;
+  }
+
+  p.text-contact2 {
+    font-size: 15px;
+  }
+
+  img.icon-footer {
+    width: 20px;
+  }
+
+  .gallery-box .image {
+    flex: 40% !important;
+  }
+
+  #footer1 .contact {
+    margin-top: 2em;
+  }
+  .img-welcome {
+    width: 250px;
+    height: auto;
+    padding-bottom: 2.5em;
+  }
+  .text-infohome {
+    font-size: 14px;
+  }
+  .nameweb-home {
+    margin-right: 8em;
+  }
+  .menu-top {
+    padding-right: 2em !important;
+  }
+  .btn-addremove {
+    margin-left: 11.5em !important;
+    float: none !important;
+  }
+  #searchbook {
+    width: 340px !important;
+  }
+  .book_typesname {
+    margin: 0 !important;
+    text-align: center;
+    margin-bottom: 0.4em !important;
+  }
+  .img-book {
+    width: 120px !important;
+  }
+  .box-activities-be {
+    padding-bottom: 5em;
+  }
+  .des_package {
+    margin-top: 1.8em;
+  }
+  .des_price {
+    margin-top: -0.2em !important;
+  }
+  .img-cover {
+    width: 220px !important;
+    height: auto !important;
+  }
+  #searchgallery {
+    width: 340px !important;
+  }
+  .img-covergallerys {
+    width: 360px !important;
+  }
+  .photos_img {
+    min-height: 240px !important;
+    max-height: 240px !important;
+  }
+  #member_editform {
+    padding: 1em 1em !important;
+  }
+  .btnmemberedit {
+    margin-right: 0.5em !important;
+  }
+  .logo-header2 {
+    width: 80px !important;
+    margin-right: 11em;
+  }
+  .text-date {
+    text-align: center !important;
+    margin-left: 2em !important;
+    margin-right: 0em !important;
+  }
+  .text-headertop {
+    margin-left: 0em !important;
+  }
+  .facebookicon {
+    margin-right: 0 !important;
+  }
+  .topnumber {
+    margin-top: 0.7em !important;
+  }
+  .topnumber2 {
+    margin-top: 1em !important;
+    margin-left: 1.6em !important;
+  }
+  .btnknowdo {
+    float: left !important;
+    margin-top: 0 !important;
+    margin-bottom: 2em;
+    margin-left: 2.5em;
+  }
+  .login-userform {
+    margin-top: 0.5em;
+  }
+  .iframeyt {
+    width: 100% !important;
+  }
+  .text-bgheader {
+    margin-left: 0 !important;
+  }
+  .name-bgheader {
+    font-size: 27px !important;
+    margin-top: 1.5em !important;
+  }
+  .text-commenthead {
+    margin-top: 2em;
+  }
+  .menu-book {
+    margin-top: 1.2em !important;
+  }
+  .showbook .name-showcatalog {
+    font-size: 14px;
+    margin-left: 1.5em;
+  }
+  .showbook img {
+    margin-bottom: 0.1em;
+    width: 100%;
+    height: 100%;
+  }
+  .menugalleryshow {
+    margin-top: 2em !important;
+    text-align: center;
+  }
+  .subgalleryname {
+    font-size: 15px !important;
+  }
+  .subgallerydate {
+    margin-top: 2px !important;
+  }
+  .contents h1 {
+    font-size: 4em !important;
+  }
+  .one-sec {
+    margin-bottom: 0 !important;
+  }
+  .four-sec {
+    margin-top: 2em !important;
+  }
+  .one-sec,
+  .two-sec,
+  .three-sec,
+  .four-sec {
+    margin-left: 0 !important;
+  }
+  .img-family2 {
+    display: block !important;
+  }
+  #knowledge {
+    margin-top: 56em !important;
+  }
+  .veget-icon::after {
+    left: 175px !important;
+  }
+  .veget-text {
+    left: 141px !important;
+  }
+  .items-imgfruits::before {
+    top: 16.6em !important;
+  }
+  .fruits-text {
+    left: 170px !important;
+    top: 416px !important;
+  }
+  .fruits-icon::after {
+    left: 170px !important;
+    top: 320px !important;
+  }
+  .items-imgactivities::before {
+    top: 33em !important;
+  }
+  .activities-text {
+    left: 156px !important;
+    top: 670px !important;
+  }
+  .activities-icon::after {
+    left: 173px !important;
+    top: 580px !important;
+  }
+  .pic {
+    margin-top: -43em !important;
+    min-height: 220px !important;
+    max-height: 190px !important;
+    margin-top: -43em !important;
+    width: 368px !important;
+  }
+  .bg-date::after {
+    width: 85px !important;
+    right: 15px !important;
+    height: 75px !important;
+    margin-top: -28em !important;
+  }
+  .date {
+    font-size: 20px !important;
+    top: -414px !important;
+    right: 47px !important;
+  }
+  .month {
+    font-size: 14px !important;
+    top: -382px !important;
+    right: 29px !important;
+  }
+
+  .items-boxknow {
+    min-width: 366px !important;
+    max-width: 366px !important;
+    margin-top: 16em !important;
+    min-height: 200px !important;
+    max-height: 190px !important;
+    margin-top: 18em !important;
+  }
+  .box-package {
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+  }
+  .name-th {
+    font-size: 25px !important ;
+  }
+  .schedule-table {
+    font-size: 13px !important;
+  }
+  .name-address,
+  .address {
+    text-align: center !important;
+  }
+  .phone,
+  .facebook {
+    border-right: 0 solid #fff !important;
+  }
+  .lineright {
+    border: 0 solid #fff !important;
+  }
+  .modal-body .nav-tabs > li {
+    width: 100% !important;
+    -webkit-width: 100% !important;
+    -o-width: 100% !important;
+    -ms-width: 100% !important;
+    -moz-width: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  #gallery {
+    background-position: center center;
+  }
+
+  #footer1 .address {
+    margin-top: 5rem;
+  }
+
+  #footer1 .address {
+    margin-top: 2em;
+  }
+
+  #footer1 .contact {
+    margin-top: 1em;
+  }
+
+  .text-contact img {
+    width: 20px;
+  }
+
+  .img-footer-logo {
+    width: 50px;
+    height: 150px;
+  }
+  .dropdownmenuhome {
+    display: none;
+  }
+}
+@media only screen and (max-width: 426px) {
+  .dropdownmenuhome {
+    display: none;
+  }
+  .img-family {
+    display: none !important;
+  }
+}
+
+@media only screen and (max-width: 768px) and (min-width: 600px) {
+  /*  */
+  .add-photo {
+    margin-bottom: 0.5em;
+  }
+  .frm-namecatalogedit {
+    width: 300px;
+  }
+  .img-covergallerys {
+    width: 300px !important;
+  }
+  .photos_img {
+    min-height: 0 !important;
+  }
+  .commentsearch {
+    width: 300px;
+    margin-left: -10em;
+  }
+  .btnmemberedit {
+    margin-right: 1.5em !important;
+  }
+  .iframeyt {
+    width: 100% !important;
+  }
+  .commentbox .text-commenthead {
+    font-size: 23px;
+  }
+  .img-showbook {
+    min-height: 151px !important;
+    max-height: 153px !important;
+    min-width: 200px !important;
+    background-size: cover !important;
+    background-position: center !important;
+  }
+  .name-showcatalog {
+    font-size: 15px !important;
+  }
+  .bg-book {
+    width: 100% !important;
+    filter: brightness(70%) !important;
+    background-size: cover !important;
+    background-position: center !important;
+  }
+  .text-bgheader {
+    margin-left: 0 !important;
+  }
+  .img-covergallery {
+    height: 140px !important;
+  }
+  figure.hovergalleryshow {
+    width: 100% !important;
+    font-size: 14px !important;
+    margin: 0px !important;
+    min-width: 193px !important;
+  }
+  .img-galleryshowhome {
+    min-width: 100% !important;
+    min-height: 100% !important;
+  }
+  .book-gallery {
+    margin-left: -5em;
+  }
+  .contents {
+    font-size: 13px;
+  }
+  .img-family {
+    width: 340px !important;
+    margin-left: -4em !important;
+    margin-top: 6.4em;
+  }
+  .one-icon,
+  .two-icon,
+  .three-icon,
+  .four-icon {
+    width: 110px !important;
+  }
+  .name-one,
+  .name-two,
+  .name-three,
+  .name-four {
+    font-size: 15px;
+  }
+  .three-sec {
+    margin-left: -6em !important;
+  }
+  .four-sec {
+    margin-left: 2em !important;
+  }
+  .one-sec {
+    margin-left: 3em !important;
+  }
+  .two-sec {
+    margin-right: -3em !important;
+  }
+  .items-imgvegetables::before {
+    min-height: 189px !important;
+  }
+  .veget-text {
+    left: 80px !important;
+    top: 130px !important;
+  }
+  .veget-icon::after {
+    left: 106px !important;
+    top: 47px !important;
+  }
+  .items-imgfruits::before {
+    min-height: 189px !important;
+  }
+  .fruits-text {
+    left: 100px !important;
+    top: 130px !important;
+  }
+  .fruits-icon::after {
+    left: 95px !important;
+    top: 44px !important;
+  }
+  .items-imgactivities::before {
+    min-height: 189px !important;
+  }
+  .activities-text {
+    left: 79px !important;
+    top: 130px !important;
+  }
+  .activities-icon::after {
+    left: 94px !important;
+    top: 49px !important;
+  }
+  #knowledge {
+    margin-top: 18em !important;
+  }
+  .pic {
+    margin-top: 3.5em !important;
+    min-width: 320px !important;
+    margin-left: -11.5em !important;
+  }
+  .bg-date::after {
+    width: 78px !important;
+    right: 10px !important;
+    height: 65px !important;
+    top: 7px !important;
+  }
+  .date {
+    font-size: 20px !important;
+    top: 58px !important;
+    right: 36px !important;
+  }
+  .month {
+    font-size: 14px !important;
+    top: 83px !important;
+    right: 20px !important;
+  }
+
+  .items-boxknow {
+    min-width: 320px !important;
+    max-width: 320px !important;
+    margin-top: 16em !important;
+  }
+  .pic-underline {
+    width: 221px !important;
+  }
+  .name-package {
+    font-size: 21px !important;
+  }
+  .schedule-table {
+    font-size: 14px !important;
+  }
+  .img-location-icon {
+    margin-top: 1em !important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .text-address,
+  .text-contact,
+  .text-footer1 {
+    font-size: 13px;
+  }
+
+  .text-address2 {
+    font-size: 12px;
+  }
+
+  .text-contact2 {
+    font-size: 13px;
+    margin-left: -12px;
+  }
+
+  .icon-footer {
+    width: 16px !important;
+  }
+
+  #footer1 .logo-footer {
+    margin-top: 2em;
+  }
+
+  .text-course {
+    font-size: 13px;
+  }
+
+  .gallery-box .image {
+    flex: 20%;
+  }
+
+  .lightbox:before {
+    top: 40%;
+    font-size: 16px;
+  }
+
+  .lightbox img {
+    height: 205px !important;
+    padding-top: 14.5px;
+  }
+  .navbar-light .navbar-toggler {
+    margin-right: 31em;
+    margin-top: 0.5em;
+  }
+  .navbar-collapse {
+    margin-right: -3.6em !important;
+    margin-left: -3.6em !important;
+    background-color: #fff;
+  }
+  .navbar-nav {
+    margin-top: 1.7rem;
+    margin-left: 4em !important;
+  }
+  .btn-addremove {
+    margin-left: -11em;
+    float: none !important;
+  }
+  #searchbook {
+    width: 320px;
+  }
+  .book_typesname {
+    font-size: 16px;
+    margin-left: -1em;
+  }
+  input.inputbook-name,
+  input.inputbook-des {
+    width: 300px;
+  }
+  .img-coverbookedit {
+    width: 240px !important;
+  }
+  .btn-uploadbook {
+    font-size: 15px;
+    width: 220px;
+  }
+  input.inputbook-namevideo,
+  input.inputbook-desvideo {
+    width: 300px;
+  }
+  .name-activities-be {
+    font-size: 19px;
+  }
+  .des-activities {
+    font-size: 14px !important;
+  }
+  #searchgallery {
+    width: 320px;
+  }
+  .uploadgallery {
+    font-size: 15px;
+  }
+  .img-coverbookedit {
+    width: 300px !important;
+  }
+  .text-date {
+    margin-right: 20em;
+  }
+  .facebookicon {
+    margin-right: 15em;
+  }
+  .topnumber {
+    margin-top: -1.2em;
+    border-right: 0px solid #fff !important;
+  }
+  .topnumber2 {
+    margin-top: -1.8em;
+    border-right: 0px solid #fff !important;
+    margin-left: -0.5em;
+  }
+  .nav2 {
+    margin-top: -4em !important;
+  }
+  .logo-header {
+    display: none;
+  }
+  .modal-body .nav-tabs > li {
+    width: 100% !important;
+    -webkit-width: 100% !important;
+    -o-width: 100% !important;
+    -ms-width: 100% !important;
+    -moz-width: 100% !important;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .navbar-nav {
+    margin: -3em;
+    font-size: 14px;
+    margin-top: 0.8em;
+    padding-bottom: 4em;
+  }
+  .add-field {
+    margin-left: -8em;
+  }
+  .remove-field,
+  .remove-field-video {
+    float: right;
+  }
+  .iframeyt {
+    width: 100% !important;
+  }
+}
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width: 321px) {
+  /* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width: 320px) {
+  /*  */
+  .modal-title {
+    font-size: 18px;
+  }
+  .text-date {
+    font-size: 14px;
+  }
+
+  .text-headertop {
+    font-size: 14px;
+  }
+
+  .menu-top img {
+    width: 15px;
+  }
+
+  .gallery-box .image {
+    flex: 40% !important;
+  }
+
+  p.text-footer1 {
+    font-size: 20px;
+  }
+
+  span.text-address {
+    font-size: 15px;
+    margin-left: 5px;
+  }
+
+  span.text-address2 {
+    font-size: 15px;
+  }
+
+  p.text-contact {
+    font-size: 15px;
+  }
+
+  p.text-contact2 {
+    font-size: 15px;
+  }
+
+  .lightbox img {
+    height: 150px !important;
+    padding-top: 14.5px;
+  }
+  .img-welcome {
+    width: 250px;
+    height: auto;
+    padding-bottom: 2.5em;
+  }
+  .text-infohome {
+    font-size: 12px;
+  }
+  .nameweb-home {
+    margin-right: 1em;
+  }
+  .menu-top {
+    margin-left: 2em !important;
+    margin-bottom: 0.5em;
+  }
+  .btn-addremove {
+    margin-left: 7.8em !important;
+    float: none !important;
+  }
+  #searchbook {
+    width: 290px !important;
+  }
+  .book_typesname {
+    margin: 0 !important;
+    text-align: center;
+    margin-bottom: 0.4em !important;
+  }
+  .img-book {
+    width: 120px !important;
+  }
+  .add-field,
+  .add-field-video {
+    font-size: 15px !important;
+  }
+  .textname-edit {
+    font-size: 16px !important;
+  }
+  input.inputbook-name,
+  input.inputbook-des {
+    width: 240px;
+  }
+  input.inputbook-namevideo,
+  input.inputbook-desvideo {
+    width: 240px;
+  }
+  .des_package {
+    margin-top: 1.8em;
+  }
+  .des_price {
+    margin-top: -0.2em !important;
+  }
+  .img-cover {
+    width: 220px !important;
+    height: auto !important;
+  }
+  #searchgallery {
+    width: 280px !important;
+  }
+  .img-covergallerys {
+    width: 250px !important;
+  }
+  .photos_img {
+    min-height: 0 !important;
+  }
+  .img-coverbookedit {
+    width: 240px !important;
+  }
+  #member_editform {
+    padding: 1em 1em !important;
+  }
+  .btnmemberedit {
+    margin-right: 0.5em !important;
+  }
+  #book-home .remove-field {
+    margin-left: 10px;
+  }
+  #book-home .remove-field-video {
+    margin-left: -17px;
+  }
+  .text-boxhome {
+    margin-left: 0em !important;
+  }
+
+  .logo-header2 {
+    width: 80px !important;
+    margin-right: 7em;
+  }
+  .text-date {
+    text-align: center !important;
+    margin-left: 0em !important;
+    margin-right: 0em !important;
+    font-size: 14px !important;
+  }
+  .text-headertop {
+    margin-left: 0em !important;
+  }
+  .facebookicon {
+    margin-right: 0 !important;
+  }
+  .topnumber {
+    margin-top: 0.7em !important;
+  }
+  .topnumber2 {
+    margin-top: 1em !important;
+    margin-left: 1em !important;
+  }
+
+  .btnknowdo {
+    float: left !important;
+    margin-top: 0 !important;
+    margin-bottom: 2em;
+    margin-left: 2.5em;
+  }
+  .headerbox-knowledge {
+    font-size: 10px;
+  }
+  .login-userform {
+    margin-top: 0.5em;
+  }
+  .namedev {
+    font-size: 11px;
+  }
+  .iframeyt {
+    width: 100% !important;
+    height: 100% !important;
+  }
+  .text-bgheader {
+    margin-left: 0 !important;
+  }
+  .name-bgheader {
+    font-size: 20px !important;
+    margin-top: 2em !important;
+  }
+  .text-commenthead {
+    margin-top: 2em;
+  }
+  .menu-book {
+    margin-top: 0.5em !important;
+  }
+  .showbook .name-showcatalog {
+    font-size: 14px;
+    margin-left: 1.5em;
+  }
+  .showbook img {
+    margin-bottom: 0.1em;
+  }
+  #footer {
+    font-size: 12px;
+  }
+  figure.hovergalleryshow {
+    margin: 0 !important;
+  }
+  .menugalleryshow {
+    margin-top: 2em !important;
+    text-align: center;
+  }
+  .subgalleryname {
+    font-size: 15px !important;
+  }
+  .subgallerydate {
+    margin-right: 6em !important;
+    margin-top: -6px !important;
+    font-size: 13px;
+  }
+  .img-galleryshowhome {
+    min-width: 100% !important;
+    min-height: 100% !important;
+  }
+  .hrline {
+    margin-top: 0.5em !important;
+  }
+
+  /*  */
+  .contents h1 {
+    font-size: 3em !important;
+  }
+  .one-sec {
+    margin-bottom: 0 !important;
+  }
+  .four-sec {
+    margin-top: 2em !important;
+  }
+  .one-sec,
+  .two-sec,
+  .three-sec,
+  .four-sec {
+    margin-left: 0 !important;
+  }
+  .img-family2 {
+    display: block !important;
+  }
+  #knowledge {
+    margin-top: 40em !important;
+  }
+  .items-imgvegetables::before {
+    min-height: 180px !important;
+  }
+  .veget-icon::after {
+    left: 126px !important;
+    top: 50px !important;
+  }
+  .veget-text {
+    left: 96px !important;
+    top: 136px !important;
+  }
+  .items-imgfruits::before {
+    top: 12em !important;
+    min-height: 180px !important;
+  }
+  .fruits-text {
+    left: 123px !important;
+    top: 321px !important;
+  }
+  .fruits-icon::after {
+    left: 116px !important;
+    top: 227px !important;
+  }
+  .items-imgactivities::before {
+    top: 24em !important;
+    min-height: 180px !important;
+  }
+  .activities-text {
+    left: 105px !important;
+    top: 501px !important;
+  }
+  .activities-icon::after {
+    left: 123px !important;
+    top: 417px !important;
+  }
+  .pic {
+    margin-top: -43em !important;
+    min-height: 220px !important;
+    max-height: 190px !important;
+    margin-top: -43em !important;
+    width: 368px !important;
+  }
+  .bg-date::after {
+    width: 85px !important;
+    right: 15px !important;
+    height: 75px !important;
+    margin-top: -28.1em !important;
+  }
+  .date {
+    font-size: 20px !important;
+    top: -409px !important;
+    right: 47px !important;
+  }
+  .month {
+    font-size: 14px !important;
+    top: -382px !important;
+    right: 29px !important;
+  }
+
+  .items-boxknow {
+    min-width: 260px !important;
+    max-width: 260px !important;
+    margin-top: 16em !important;
+    min-height: 200px !important;
+    max-height: 190px !important;
+    margin-top: 16em !important;
+  }
+  .box-package {
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+  }
+  .name-th {
+    font-size: 19px !important ;
+  }
+  .schedule-table {
+    font-size: 13px !important;
+  }
+  .name-address {
+    font-size: 22px !important;
+  }
+  .address {
+    font-size: 14px !important;
+  }
+  .name-address,
+  .address {
+    text-align: center !important;
+  }
+  .phone,
+  .facebook {
+    border-right: 0 solid #fff !important;
+  }
+  .pic-underline {
+    width: 283px !important;
+  }
+  .lineright {
+    border: 0 solid #fff !important;
+  }
+  .modal-body .nav-tabs > li {
+    width: 100% !important;
+    -webkit-width: 100% !important;
+    -o-width: 100% !important;
+    -ms-width: 100% !important;
+    -moz-width: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  /*  */
+}
+
+@media only screen and (max-width: 1280px) and (min-width: 1024px) {
+  /*  */
+  .img-coverbookedit {
+    width: 260px !important;
+  }
+  .img-family {
+    width: 500px !important;
+    height: auto;
+    margin-left: -7em !important;
+  }
+  .three-sec {
+    margin-left: -8em !important;
+  }
+  .four-sec {
+    margin-left: 3em !important;
+  }
+  .veget-icon::after {
+    left: 145px !important;
+    top: 60px !important;
+  }
+  .veget-text {
+    left: 115px !important;
+    top: 145px !important;
+  }
+  .fruits-icon::after {
+    left: 128px !important;
+    top: 60px !important;
+  }
+  .fruits-text {
+    left: 131px !important;
+    top: 145px !important;
+  }
+  .activities-icon::after {
+    left: 133px !important;
+    top: 60px !important;
+  }
+  .activities-text {
+    left: 118px !important;
+    top: 145px !important;
+  }
+  .items-imgvegetables::before,
+  .items-imgfruits::before,
+  .items-imgactivities::before {
+    min-height: 220px !important;
+  }
+  #knowledge {
+    margin-top: 20em !important;
+  }
+  .book_names {
+    margin-left: -0.5em;
+  }
+  .info-know {
+    margin-left: -0.5em;
+    margin-right: 1em;
+  }
+  .pic {
+    margin-top: 3.5em !important;
+    min-width: 440px !important;
+    margin-left: -15.5em !important;
+    max-height: 215px !important;
+    min-height: 215px !important;
+  }
+  .bg-date::after {
+    width: 78px !important;
+    right: 10px !important;
+    height: 65px !important;
+    top: 7px !important;
+  }
+  .date {
+    font-size: 20px !important;
+    top: 59px !important;
+    right: 36px !important;
+  }
+  .month {
+    font-size: 14px !important;
+    top: 83px !important;
+    right: 20px !important;
+  }
+
+  .items-boxknow {
+    min-width: 440px !important;
+    max-width: 440px !important;
+    margin-top: 17.5em !important;
+  }
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  .namegallery-list {
+    font-size: 16px !important;
+    margin-top: 1em !important;
+  }
+  .dates-gallery {
+    font-size: 13px !important;
+  }
+  .img-cover {
+    margin-left: 0.4em;
+    margin-top: 1em;
+  }
+  .commentsearch {
+    width: 300px;
+    float: right;
+  }
+  #header-firstnav .menu-top {
+    margin-right: 0 !important;
+  }
+  .login-logo {
+    float: right !important;
+    margin-right: -3em !important;
+  }
+}
+
+@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
+  .bg-book {
+    width: 100% !important;
+    filter: brightness(70%) !important;
+    background-size: cover !important;
+    background-position: center !important;
+  }
+  .text-bgheader {
+    margin-left: 0 !important;
+  }
+  .img-showbook {
+    min-height: 190px !important;
+    max-height: 190px !important;
+    min-width: 264px !important;
+    background-size: cover !important;
+    background-position: center !important;
+  }
+}
+@media only screen and (min-width: 1023px) {
+  /*  */
+  .logo-header2 {
+    display: none;
+  }
+  .dropdownmenuhome {
+    display: block;
+  }
+}
+
+@media only screen and (min-width: 427px) {
+  /*  */
+  .btnmapmobile {
+    display: none;
+  }
+}
+
+/* */
+@media only screen and (max-width: 1022px) and (min-width: 992px) {
+  .logo-header2 {
+    display: none;
+  }
+  .one-icon,
+  .two-icon,
+  .three-icon,
+  .four-icon {
+    width: 120px;
+  }
+  .img-family {
+    width: 400px !important;
+    margin-left: -3em !important;
+    margin-top: 2em;
+  }
+  .one-sec {
+    margin-left: 6em;
+  }
+  .two-sec {
+    margin-left: -6em;
+  }
+  .three-sec {
+    margin-left: 0 !important;
+  }
+  .four-sec {
+    margin-left: 1em !important;
+  }
+  .veget-icon::after {
+    left: 132px !important;
+  }
+  .veget-text {
+    left: 105px !important;
+  }
+  .fruits-icon::after {
+    left: 135px !important;
+  }
+  .fruits-text {
+    left: 140px !important;
+  }
+  .activities-text {
+    left: 115px !important;
+  }
+  .activities-icon::after {
+    left: 135px !important;
+  }
+}
+@media only screen and (max-width: 991px) and (min-width: 769px) {
+  .logo-header {
+    display: none !important;
+  }
+  .contents h1 {
+    font-size: 4em !important;
+  }
+  .navbar-light .navbar-toggler {
+    margin-right: 31em;
+    margin-top: 0.5em;
+  }
+  .navbar-collapse {
+    margin-right: -4.6em !important;
+    margin-left: -4.6em !important;
+    background-color: #fff;
+  }
+  .navbar-nav {
+    margin-top: 1.7rem;
+    margin-left: 4em !important;
+  }
+  .text-date {
+    margin-right: 20em;
+  }
+  .facebookicon {
+    margin-right: 15em;
+  }
+  .topnumber {
+    margin-top: -1.2em;
+    border-right: 0px solid #fff !important;
+  }
+  .topnumber2 {
+    margin-top: -1.8em;
+    border-right: 0px solid #fff !important;
+  }
+  .nav2 {
+    margin-top: -4em !important;
+  }
+  .menu-top {
+    margin-right: -6px !important;
+  }
+  .name-package {
+    font-size: 21px !important;
+  }
+  .img-family {
+    width: 350px !important;
+    margin-left: -2em !important;
+    margin-top: 7em !important;
+  }
+  .one-icon,
+  .two-icon,
+  .three-icon,
+  .four-icon {
+    width: 110px !important;
+  }
+  .one-sec {
+    margin-left: 6em !important;
+  }
+  .two-sec {
+    margin-left: -6em !important;
+  }
+  .three-sec {
+    margin-left: 1em !important;
+  }
+  .four-sec {
+    margin-left: 2em !important;
+  }
+  .items-imgvegetables::before,
+  .items-imgfruits::before,
+  .items-imgactivities::before {
+    min-height: 200px !important;
+  }
+  .veget-icon::after {
+    left: 110px !important;
+    top: 60px !important;
+  }
+  .veget-text {
+    left: 80px !important;
+    top: 140px !important;
+  }
+  .fruits-icon::after {
+    width: 67px !important;
+    height: 69px !important;
+    left: 100px !important;
+    top: 62px !important;
+  }
+  .fruits-text {
+    left: 102px !important;
+    top: 140px !important;
+  }
+  .activities-text {
+    left: 75px !important;
+    top: 140px !important;
+  }
+  .activities-icon::after {
+    width: 62px !important;
+    height: 60px !important;
+    left: 99px !important;
+    top: 70px !important;
+  }
+}
+@media only screen and (max-width: 767px) and (min-width: 575px) {
+  .navbar-collapse {
+    margin-right: -9.6em !important;
+    margin-left: -9.6em !important;
+    background-color: #fff;
+  }
+  .logo-header2 {
+    width: 65px !important;
+  }
+  .text-date {
+    text-align: center !important;
+    margin-left: -1em !important;
+    margin-right: 0em !important;
+  }
+  .text-headertop {
+    margin-left: 0em !important;
+  }
+  .facebookicon {
+    margin-right: 0 !important;
+  }
+  .topnumber {
+    margin-right: 8em !important;
+  }
+  .topnumber2 {
+    margin-left: 0.6em !important;
+  }
+  .one-sec,
+  .two-sec,
+  .three-sec,
+  .four-sec {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  .one-icon,
+  .two-icon,
+  .three-icon,
+  .four-icon {
+    width: 150px !important;
+  }
+  .name-one,
+  .name-two,
+  .name-three,
+  .name-four {
+    font-size: 21px !important;
+  }
+  .four-sec {
+    margin-top: -35em !important;
+  }
+  .img-family {
+    width: 400px !important;
+    margin-top: 23em !important;
+    margin-left: 0.5em !important;
+  }
+  .one-sec {
+    margin-bottom: 3em !important;
+  }
+  #knowledge {
+    margin-top: 45em !important;
+  }
+  .veget-text {
+    left: 300px !important;
+    top: 140px !important;
+  }
+  .veget-icon::after {
+    left: 326px !important;
+    top: 57px !important;
+  }
+  .items-imgfruits::before {
+    top: 12.5em;
+  }
+  .fruits-text {
+    left: 325px !important;
+    top: 330px !important;
+  }
+  .fruits-icon::after {
+    left: 315px !important;
+    top: 234px !important;
+  }
+  .items-imgactivities::before {
+    top: 25em;
+  }
+  .activities-text {
+    left: 309px !important;
+    top: 518px !important;
+  }
+  .activities-icon::after {
+    left: 324px !important;
+    top: 429px !important;
+  }
+  #package {
+    padding-bottom: 2em !important;
+  }
+  .image img {
+    height: auto !important;
+  }
+  .lightbox img {
+    height: auto !important;
+  }
+  .items-boxknow {
+    min-width: 480px !important;
+    max-width: 480px !important;
+    margin-top: 23em !important;
+  }
+  .pic {
+    margin-top: -48.5em !important;
+    min-width: 350px !important;
+    max-height: 350px !important;
+    margin-left: 0 !important;
+  }
+  .month {
+    top: -477px !important;
+  }
+  .date {
+    top: -504px !important;
+  }
+  .bg-date::after {
+    top: -557px !important;
+  }
+  .phone {
+    border: 0 !important;
+  }
+  .facebook {
+    border: 0 !important;
+  }
+  .showbook img {
+    min-width: 100% !important;
+    margin-bottom: 0.2em !important;
+    min-height: 300px !important;
+  }
+  .dropdownmenuhome {
+    display: none !important;
+  }
+  .box-btn {
+    margin-bottom: 2em;
+    margin-left: 3em;
+    float: left !important;
+    margin-top: 0 !important;
+  }
+  .btn-addremove {
+    float: right !important;
+  }
+  #searchbook,
+  #searchgallery {
+    width: 460px !important;
+  }
+  .book_typesname {
+    text-align: center;
+    margin-left: 0 !important;
+  }
+  .box_edit {
+    padding: 1em 1em !important;
+  }
+  .btnmemberedit {
+    margin-right: 0 !important;
+  }
+  #gallery_edit .photos_img {
+    min-height: 260px !important;
+    max-height: 260px !important;
+  }
+  .logo-headeradmin {
+    width: 60 !important;
+  }
+  .nameweb-home {
+    margin-right: 11em !important;
+  }
+  .welcomehome {
+    margin-right: 2.3em !important;
+  }
+}
+@media only screen and (max-width: 574px) and (min-width: 515px) {
+  .navbar-collapse {
+    margin-right: -3.6em !important;
+    margin-left: -3.6em !important;
+    background-color: #fff;
+  }
+  .logo-header2 {
+    width: 65px !important;
+  }
+  .text-date {
+    text-align: center !important;
+    margin-left: -1em !important;
+    margin-right: 0em !important;
+  }
+  .text-headertop {
+    margin-left: 0em !important;
+  }
+  .facebookicon {
+    margin-right: 0 !important;
+  }
+  .topnumber {
+    margin-right: 8em !important;
+  }
+  .topnumber2 {
+    margin-left: 0.6em !important;
+  }
+  .one-sec,
+  .two-sec,
+  .three-sec,
+  .four-sec {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  .one-icon,
+  .two-icon,
+  .three-icon,
+  .four-icon {
+    width: 150px !important;
+  }
+  .name-one,
+  .name-two,
+  .name-three,
+  .name-four {
+    font-size: 21px !important;
+  }
+  .four-sec {
+    margin-top: -35em !important;
+  }
+  .img-family {
+    width: 400px !important;
+    margin-top: 23em !important;
+    margin-left: 0.5em !important;
+  }
+  .one-sec {
+    margin-bottom: 3em !important;
+  }
+  #knowledge {
+    margin-top: 45em !important;
+  }
+  .veget-text {
+    left: 180px !important;
+    top: 140px !important;
+  }
+  .veget-icon::after {
+    left: 205px !important;
+    top: 57px !important;
+  }
+  .items-imgfruits::before {
+    top: 12.5em;
+  }
+  .fruits-text {
+    left: 195px !important;
+    top: 330px !important;
+  }
+  .fruits-icon:after {
+    left: 185px !important;
+    top: 234px !important;
+  }
+  .items-imgactivities::before {
+    top: 25em;
+    min-height: 200px !important;
+  }
+  .activities-text {
+    left: 177px !important;
+    top: 518px !important;
+  }
+  .activities-icon::after {
+    left: 194px !important;
+    top: 429px !important;
+  }
+  #package {
+    padding-bottom: 2em !important;
+  }
+  .image img {
+    height: auto !important;
+  }
+  .lightbox img {
+    height: auto !important;
+  }
+  .items-boxknow {
+    min-width: 440px !important;
+    max-width: 450px !important;
+    margin-top: 23em !important;
+  }
+  .pic {
+    margin-top: -46.5em !important;
+    min-width: 320px !important;
+    max-height: 320px !important;
+    margin-left: 0 !important;
+  }
+  .month {
+    top: -456px !important;
+    right: 21px !important;
+  }
+  .date {
+    top: -479px !important;
+    right: 37px !important;
+  }
+  .bg-date::after {
+    top: -530px !important;
+    right: 14px !important;
+  }
+  .phone {
+    border: 0 !important;
+  }
+  .facebook {
+    border: 0 !important;
+  }
+  .showbook img {
+    min-width: 100% !important;
+    margin-bottom: 0.2em !important;
+  }
+  .dropdownmenuhome {
+    display: none !important;
+  }
+  .box-btn {
+    margin-bottom: 2em;
+    margin-left: 3em;
+    float: left !important;
+    margin-top: 0 !important;
+  }
+
+  .btn-addremove {
+    float: right !important;
+  }
+  #searchbook,
+  #searchgallery {
+    width: 480px !important;
+  }
+  .book_typesname {
+    text-align: center;
+    margin-left: 0 !important;
+  }
+  .box_edit {
+    padding: 1em 1em !important;
+  }
+  .btnmemberedit {
+    margin-right: 0 !important;
+  }
+  #gallery_edit .photos_img {
+    min-height: 260px !important;
+    max-height: 260px !important;
+  }
+  .logo-headeradmin {
+    width: 60 !important;
+  }
+  .nameweb-home {
+    margin-right: 11em !important;
+  }
+  .welcomehome {
+    margin-right: 2.3em !important;
+  }
+}
+@media only screen and (max-width: 514px) and (min-width: 500px) {
+  .navbar-collapse {
+    margin-right: -3.6em !important;
+    margin-left: -3.6em !important;
+    background-color: #fff;
+  }
+  .logo-header2 {
+    width: 80px !important;
+    margin-right: 11em;
+  }
+  .text-date {
+    text-align: center !important;
+    margin-left: 2em !important;
+    margin-right: 0em !important;
+  }
+  .text-headertop {
+    margin-left: 0em !important;
+  }
+  .facebookicon {
+    margin-right: 0 !important;
+  }
+  .topnumber {
+    margin-top: 0.7em !important;
+  }
+  .topnumber2 {
+    margin-top: 1em !important;
+    margin-left: 1.6em !important;
+  }
+  .one-sec,
+  .two-sec,
+  .three-sec,
+  .four-sec {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  .one-icon,
+  .two-icon,
+  .three-icon,
+  .four-icon {
+    width: 150px !important;
+  }
+  .name-one,
+  .name-two,
+  .name-three,
+  .name-four {
+    font-size: 21px !important;
+  }
+  .four-sec {
+    margin-top: -35em !important;
+  }
+  .img-family {
+    width: 400px !important;
+    margin-top: 23em !important;
+    margin-left: 0.5em !important;
+  }
+  .one-sec {
+    margin-bottom: 3em !important;
+  }
+  #knowledge {
+    margin-top: 45em !important;
+  }
+  .veget-text {
+    left: 180px !important;
+    top: 140px !important;
+  }
+  .veget-icon::after {
+    left: 205px !important;
+    top: 57px !important;
+  }
+  .items-imgfruits::before {
+    top: 12.5em;
+  }
+  .fruits-text {
+    left: 195px !important;
+    top: 330px !important;
+  }
+  .fruits-icon:after {
+    left: 185px !important;
+    top: 234px !important;
+  }
+  .items-imgactivities::before {
+    top: 25em;
+    min-height: 200px !important;
+  }
+  .activities-text {
+    left: 177px !important;
+    top: 518px !important;
+  }
+  .activities-icon::after {
+    left: 194px !important;
+    top: 429px !important;
+  }
+  #package {
+    padding-bottom: 2em !important;
+  }
+  .image img {
+    height: auto !important;
+  }
+  .lightbox img {
+    height: auto !important;
+  }
+  .items-boxknow {
+    min-width: 440px !important;
+    max-width: 450px !important;
+    margin-top: 23em !important;
+  }
+  .pic {
+    margin-top: -46.5em !important;
+    min-width: 320px !important;
+    max-height: 320px !important;
+    margin-left: 0 !important;
+  }
+  .month {
+    top: -456px !important;
+    right: 21px !important;
+  }
+  .date {
+    top: -479px !important;
+    right: 37px !important;
+  }
+  .bg-date::after {
+    top: -530px !important;
+    right: 14px !important;
+  }
+  .phone {
+    border: 0 !important;
+  }
+  .facebook {
+    border: 0 !important;
+  }
+  .text-bgheader {
+    margin-left: 0 !important;
+  }
+  .showbook img {
+    min-width: 100% !important;
+    margin-bottom: 0.2em !important;
+  }
+  .dropdownmenuhome {
+    display: none !important;
+  }
+  .box-btn {
+    margin-bottom: 2em;
+    margin-left: 3em;
+    float: left !important;
+    margin-top: 0 !important;
+  }
+  .btn-addremove {
+    float: right !important;
+  }
+  #searchbook,
+  #searchgallery {
+    width: 420px !important;
+  }
+  .book_typesname {
+    text-align: center;
+    margin-left: 0 !important;
+  }
+  .box_edit {
+    padding: 1em 1em !important;
+  }
+  .btnmemberedit {
+    margin-right: 0 !important;
+  }
+  #gallery_edit .photos_img {
+    min-height: 260px !important;
+    max-height: 260px !important;
+  }
+  .logo-headeradmin {
+    width: 60 !important;
+  }
+  .nameweb-home {
+    margin-right: 11em !important;
+  }
+  .welcomehome {
+    margin-right: 2.3em !important;
+  }
+}
