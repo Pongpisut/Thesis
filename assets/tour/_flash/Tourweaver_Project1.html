@@ -1,0 +1,104 @@
+<html> 
+ <head> 
+ <meta http-equiv="Content-Type" content="text/html"/> 
+ <meta charset="UTF-8" />
+ <title>สวนเกษตรอินทรีย์สวนฟุ้งขจร | Fungkhajorn</title>
+ <link href="https://fonts.googleapis.com/css?family=Prompt&display=swap" rel="stylesheet">
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161523126-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-161523126-1');
+    </script>
+ </head> 
+ <style>
+ #link {
+	margin-left: 1em;
+	font-family: 'Prompt', sans-serif;
+ }
+ .headertop{margin-left: 1em; font-family: 'Prompt', sans-serif; color:red;}
+ </style>
+ </head> 
+ <body leftMargin="0" topMargin="0" rightMargin="0" bottomMargin="0"> 
+ <script type="text/javascript" src="swfobject.js"></script> 
+ <div id="flashcontent" width = "100%" height ="100%> 
+ To view virtual tour properly, Flash Player 9.0.28 or later version is needed. 
+ Please download the latest version of <a href="http://www.adobe.com/go/getflashplayer" target="_blank"></a> 
+ 
+ <br>
+ <center><h1 class="headertop">วิธีการดู Virtual tour</h1></center>
+ <h3 id="link">
+ <br/> <br/>
+	ขั้นตอนที่ 1 ให้เปิดแท็ปหน้าเว็บใหม่แล้วนำลิ้งค์นี้ไปวาง  chrome://settings/content/flash  ดังภาพด้านล่าง<br/><br/>
+	<img src="step1.png">
+	<br/><br/>
+	ขั้นตอนที่ 2 ให้เราติ๊กดังภาพด้านล่าง แล้วให้ปิดหน้านี้ไปเลย<br/><br/>
+	<img src="step2.png"><br/><br/>
+	ขั้นตอนที่ 3 ให้เราคลิ๊กเลือกดังภาพตรงหมายเลข 1  เมื่อคลิ๊กตรงหมายเลข 1 เสร็จ ตรงหมายเลข 2 ให้เราเลือก Allow<br/><br/>
+	<img src="step3.png">
+	<br/><br/>
+	ขั้นตอนที่ 4 ให้เรา รีเฟรช หน้าเว็บ 1 ครั้ง
+ </h3>
+ </div> 
+ <script type="text/javascript">
+ var jsReady = true;
+ function isJsReady() {
+ return jsReady;
+ }
+ function pageInit() {
+ jsReady = true;
+ }
+ function thisMovie(movieName) {
+ return document.getElementById(movieName);
+ }
+ function changeSceneOnLoad(){
+ var panoid=window.location.search.split("&")[0];
+ if(panoid.indexOf("firstscene") != -1)
+ {
+ panoid = panoid.split("=")[1];
+ }
+ if(panoid)
+ {
+ if(thisMovie("sotester").twAPI){
+ setTimeout(function(){thisMovie("sotester").twAPI("switchToScene", panoid);},500);
+ }else{
+ setTimeout(changeSceneOnLoad,1000);
+ }	
+ }
+ }
+ </script>
+ 
+ <script type="text/javascript"> 
+ // <![CDATA[ 
+ var so = new SWFObject("twviewer.swf", "sotester", "100%", "100%", "9.0.0", "#FFFFFF"); 
+ so.addParam("allowNetworking", "all"); 
+ so.addParam("allowScriptAccess", "always"); 
+ so.addParam("allowFullScreen", "true"); 
+ so.addParam("scale", "noscale"); 
+ so.addParam("wmode", "direct"); 
+ //<!-%% Share Mode %%->
+ so.addVariable("lwImg", ""); 
+ so.addVariable("lwBgColor", "255,255,255,255"); 
+ so.addVariable("lwBarBgColor", "255,255,255,255"); 
+ so.addVariable("lwBarColor", "255,0,255,0"); 
+ so.addVariable("lwBarBounds", "-576,-216,1152,8"); 
+ so.addVariable("lwlocation", "7"); 
+ so.addVariable("lwShowLoadingPercent", "true"); 
+ so.addVariable("lwTextColor", "255,0,0,0"); 
+ so.addVariable("iniFile", "config_Project1.bin"); 
+ so.addVariable("progressType", "0"); 
+ so.addVariable("swfFile", ""); 
+ so.addVariable("percentType", "0"); 
+ so.addVariable("sizeFile", "filesize.txt"); 
+ so.addVariable("href", location.href); 
+ so.addVariable("lwbounds", "<!-%% videobounds %%->");
+ so.write("flashcontent"); 
+ changeSceneOnLoad(); 
+ // ]]> 
+ </script> 
+ </body> 
+ </html>
+
